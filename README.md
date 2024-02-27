@@ -1,1 +1,3 @@
 # Simple-Weather-CLI-Command-Line-Interface-
+
+Simple Weather CLI is a Python-based command-line application that allows users to fetch and display the current weather information for a specified city. It utilizes the OpenWeatherMap API to gather data on temperature, atmospheric pressure, humidity, and weather description. The application is designed to be user-friendly, prompting the user for city input and providing clear, concise output. This project is an excellent starting point for those interested in learning how to interact with APIs, handle JSON data, and create simple command-line applications using Python.
